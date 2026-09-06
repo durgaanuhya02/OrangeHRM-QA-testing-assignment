@@ -1,4 +1,4 @@
- 1. Project Overview
+ ## 1. Project Overview
 This project is a QA/SDET assignment covering both **manual testing** and **test automation** for the [OrangeHRM Open Source Demo](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login) application. It includes documented manual test cases, potential bug/usability observations, and a Python + Selenium automation framework built with the Page Object Model (POM).
 
  2. Objective
