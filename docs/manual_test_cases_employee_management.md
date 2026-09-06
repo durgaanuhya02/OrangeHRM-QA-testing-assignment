@@ -2,7 +2,6 @@
 
 **Application Under Test:** OrangeHRM Open Source Demo
 **Module:** PIM → Add Employee / Employee List
-**Tested By:** [Your Name]
 **Test Environment:** Chrome (latest), Windows 11, Desktop
 
 | Test Case ID | Test Scenario | Preconditions | Test Steps | Test Data | Expected Result | Actual Result | Status | Priority |

@@ -2,7 +2,6 @@
 
 **Application Under Test:** OrangeHRM Open Source Demo
 **URL:** https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-**Tested By:** [Your Name]
 **Test Environment:** Chrome (latest), Windows 11, Desktop
 **Note on credentials:** The valid username/password are displayed directly on the login page itself ("Username : Admin" / "Password : admin123") and were used as-is; they are not secret.
 

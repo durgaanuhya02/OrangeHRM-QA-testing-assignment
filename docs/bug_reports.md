@@ -2,8 +2,6 @@
 
 **Application:** OrangeHRM Open Source Demo
 **URL:** https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-**Reported By:** [Your Name]
-**Date:** [Date]
 
 > **Labeling convention used below:** every item is explicitly labeled either **"Potential Bug / Edge Case to Verify"** (behavior was observed once and is worth a second opinion or product-team judgment call before being treated as a defect) or **"Confirmed Behavior (Usability Concern)"** (the behavior was directly reproduced during testing, but is a design/UX judgment call rather than a functional defect). None of the three items below are claimed as confirmed *functional* bugs — the login form works correctly for its core purpose (accepting valid credentials, rejecting invalid ones). These are lower-severity observations a real QA pass would flag for product/UX review.
 
