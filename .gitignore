@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.vscode/
+.idea/
+
+# Local virtual environment
+venv/
+env/
+.venv/
+
+# Test artifacts (screenshots are generated locally on failure)
+screenshots/*.png
+
+# OS files
+.DS_Store
+Thumbs.db
